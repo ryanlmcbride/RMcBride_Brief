@@ -13,48 +13,16 @@ Bowie State University, Bowie, MD
 C++ Programming 
 
 ## Training
-Black Data Processing Associates (BDPA) 2017 - Present
+Black Data Processing Associates (BDPA) (2017 - Present)
 
 ## Projects
 
 ## Extracurriculars
-- CMIT South Swim Team 2017 - Present
-- CMIT South Track Team 2019 - Present
-- Web Design Club 2014 2014 - 2015
+- CMIT South Swim Team    (2017 - Present)
+- CMIT South Track Team   (2019 - Present)
+- Web Design Club         (2014 - 2015)
 
 ## Awards & Honors
-- BDPA High School Computer Competition (HSCC) First Place Winner
-- National Honor Society (NHS) 2019 - Present
-- Swim Team Captain
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryanlmcbride/RMcBride_Brief/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- BDPA High School Computer Competition (HSCC) First Place Winner   (August 2019)
+- National Honor Society (NHS)                                      (2019 - Present)
+- Swim Team Captain                                                 (2020 - 2020)
